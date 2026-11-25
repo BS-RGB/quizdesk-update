@@ -1,9 +1,9 @@
 {
  "kind": "quizdesk-update",
- "versionCode": 14,
- "versionName": "1.10.1",
- "apkUrl": "quizdesk-14.apk",
- "sha256": "df529359c8eb6b73ed3937c5d0f5a1f714027fef3d15c21501898024c35820e6",
- "size": 18993491,
- "notes": "· 应用内更新已启用（更新源：GitHub Pages）"
+ "versionCode": 15,
+ "versionName": "1.10.2",
+ "apkUrl": "quizdesk-15.apk",
+ "sha256": "d33d52987877ff9f9be1ea842ad277a264adcbd40a6ee79e8b0639db9aabccbe",
+ "size": 18993495,
+ "notes": "· 检查更新：显示当前更新源，便于确认检查的是哪个地址"
 }
