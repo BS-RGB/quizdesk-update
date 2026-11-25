@@ -1,0 +1,9 @@
+{
+ "kind": "quizdesk-update",
+ "versionCode": 13,
+ "versionName": "1.10.0",
+ "apkUrl": "quizdesk-13.apk",
+ "sha256": "255f75f4ab636c4c3b8b615fefca3b4cb4e2d2e2638364461265be92b86d9bbe",
+ "size": 18993495,
+ "notes": "· 应用内更新（P4）"
+}
