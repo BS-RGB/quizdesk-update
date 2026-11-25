@@ -1,9 +1,9 @@
 {
  "kind": "quizdesk-update",
- "versionCode": 15,
- "versionName": "1.10.2",
- "apkUrl": "quizdesk-15.apk",
- "sha256": "d33d52987877ff9f9be1ea842ad277a264adcbd40a6ee79e8b0639db9aabccbe",
- "size": 18993495,
- "notes": "· 检查更新：显示当前更新源，便于确认检查的是哪个地址"
+ "versionCode": 16,
+ "versionName": "1.11.0",
+ "apkUrl": "quizdesk-16.apk",
+ "sha256": "f58c5e6d1293935ceabaa67a31c9f95c411e140e16dca59893e7af6f15cbcc15",
+ "size": 18993491,
+ "notes": "· 支持删除题库（题库页右上角「删除」，删除前自动备份；会一并删除该库的成绩）"
 }
