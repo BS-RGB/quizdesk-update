@@ -1,9 +1,9 @@
 {
  "kind": "quizdesk-update",
- "versionCode": 17,
- "versionName": "1.11.1",
- "apkUrl": "quizdesk-17.apk",
- "sha256": "2677edb434d33775071e75080a4770c3e3c48b56c4f3ea9e50c2097e5fca7911",
- "size": 19009875,
- "notes": "· 题库卡片上也能直接「删除」（此前只在题目页里）"
+ "versionCode": 18,
+ "versionName": "1.12.0",
+ "apkUrl": "quizdesk-18.apk",
+ "sha256": "859c98056f0f2d37f2c9d6d9593306b07f5a3a9d50ec8c8b76687c01cbfb6572",
+ "size": 19026263,
+ "notes": "· 错题可标四类错因（概念混淆/记忆空白/审题偏差/思路方法错）+ 一句话机理；分析页新增「按错因」，只统计仍错的题"
 }
