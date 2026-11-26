@@ -1,9 +1,9 @@
 {
  "kind": "quizdesk-update",
- "versionCode": 18,
- "versionName": "1.12.0",
- "apkUrl": "quizdesk-18.apk",
- "sha256": "859c98056f0f2d37f2c9d6d9593306b07f5a3a9d50ec8c8b76687c01cbfb6572",
- "size": 19026263,
- "notes": "· 错题可标四类错因（概念混淆/记忆空白/审题偏差/思路方法错）+ 一句话机理；分析页新增「按错因」，只统计仍错的题"
+ "versionCode": 19,
+ "versionName": "1.12.1",
+ "apkUrl": "quizdesk-19.apk",
+ "sha256": "bcbacd9113969a104cee8ecd6d3e9fa01d7a86dc6064d79168021619e18c755c",
+ "size": 19026259,
+ "notes": "· 按错因显示修正率（仍错 N / 曾错 M），低于 80% 提示先重练这一类"
 }
