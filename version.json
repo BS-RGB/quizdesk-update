@@ -1,9 +1,9 @@
 {
  "kind": "quizdesk-update",
- "versionCode": 19,
- "versionName": "1.12.1",
- "apkUrl": "quizdesk-19.apk",
- "sha256": "bcbacd9113969a104cee8ecd6d3e9fa01d7a86dc6064d79168021619e18c755c",
- "size": 19026259,
- "notes": "· 按错因显示修正率（仍错 N / 曾错 M），低于 80% 提示先重练这一类"
+ "versionCode": 20,
+ "versionName": "1.12.2",
+ "apkUrl": "quizdesk-20.apk",
+ "sha256": "445a1cce1b82ae15099455f9a9fbd75facb6a0d03f2b82b732642984a9691e79",
+ "size": 19026263,
+ "notes": "· 分析页可导出错题清单 CSV（含错因与一句话机理），Excel 直接打开，用来在电脑上复习/打印"
 }
